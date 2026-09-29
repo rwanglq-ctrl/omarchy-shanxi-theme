@@ -19,6 +19,10 @@ omarchy theme install https://github.com/rwanglq-ctrl/omarchy-shanxi-theme
 5. [云冈石窟大佛](https://unsplash.com/photos/a-statue-of-a-person-ONBBzsOCZLM) — Young Kane，Unsplash License（Unsplash）
 6. [Backyard Door in Pingyao.jpg](https://commons.wikimedia.org/wiki/File:Backyard_Door_in_Pingyao.jpg) — Severin.stalder，CC BY-SA 3.0（Wikimedia Commons）；已裁切、缩放
 7. [Lingshi Jingsheng Wangjia Dayuan 2013.08.24 14-14-08.jpg](https://commons.wikimedia.org/wiki/File:Lingshi_Jingsheng_Wangjia_Dayuan_2013.08.24_14-14-08.jpg) — Zhangzhugang，CC BY-SA 3.0（Wikimedia Commons）；已裁切、缩放
+8. [平遥古城市楼与红灯笼](https://unsplash.com/photos/a-group-of-people-walking-down-a-street-next-to-tall-buildings-Q0BqoqlvEtk) — Shane Lopez，Unsplash License（Unsplash）
+9. [平遥城隍庙牌楼](https://unsplash.com/photos/traditional-chinese-temple-gate-with-red-lanterns-9NLFj1-74JM) — Jun Ren，Unsplash License（Unsplash）
+10. [琉璃绿瓦楼阁](https://unsplash.com/photos/traditional-chinese-building-with-green-tiled-roof-Kfr53U7V664) — Jun Ren，Unsplash License（Unsplash）
+11. [大同古建红墙铜铃](https://unsplash.com/photos/traditional-chinese-architecture-with-bells-CgLm2ywkaO8) — Wenying Yuan，Unsplash License（Unsplash）
 
 ## 许可
 
