@@ -1,0 +1,31 @@
+# 山西 Shanxi — 黄土为底、晋式琉璃绿为印、青砖与老陈醋褐点缀。
+mode = "light"
+accent = "#2E6A55"
+selection = "#E0CDA5"
+muted = "#8E7F68"
+
+background = "#EDE2CB"
+dark_background = "#E8DABC"
+darker_background = "#E1CFA9"
+lighter_background = "#E5D5B4"
+
+foreground = "#2A2219"
+dark_foreground = "#6F6351"
+light_foreground = "#4C4032"
+bright_foreground = "#1A150F"
+
+red = "#9C3B26"
+yellow = "#7D5F0F"
+orange = "#97511A"
+green = "#2E6A55"
+cyan = "#236A72"
+blue = "#2F5282"
+magenta = "#7E3A5A"
+brown = "#6A4424"
+
+bright_red = "#AC412A"
+bright_yellow = "#81630F"
+bright_green = "#32745D"
+bright_cyan = "#26727A"
+bright_blue = "#345B91"
+bright_magenta = "#8C4064"
